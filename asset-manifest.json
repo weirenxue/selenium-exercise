@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/selenium-exercise/static/css/main.a617e044.chunk.css",
+    "main.js": "/selenium-exercise/static/js/main.230f76e5.chunk.js",
+    "main.js.map": "/selenium-exercise/static/js/main.230f76e5.chunk.js.map",
+    "runtime-main.js": "/selenium-exercise/static/js/runtime-main.5f494b67.js",
+    "runtime-main.js.map": "/selenium-exercise/static/js/runtime-main.5f494b67.js.map",
+    "static/js/2.5171cc56.chunk.js": "/selenium-exercise/static/js/2.5171cc56.chunk.js",
+    "static/js/2.5171cc56.chunk.js.map": "/selenium-exercise/static/js/2.5171cc56.chunk.js.map",
+    "static/js/3.e9dd9382.chunk.js": "/selenium-exercise/static/js/3.e9dd9382.chunk.js",
+    "static/js/3.e9dd9382.chunk.js.map": "/selenium-exercise/static/js/3.e9dd9382.chunk.js.map",
+    "index.html": "/selenium-exercise/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/selenium-exercise/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5171cc56.chunk.js.LICENSE.txt": "/selenium-exercise/static/js/2.5171cc56.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/selenium-exercise/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f494b67.js",
+    "static/js/2.5171cc56.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.230f76e5.chunk.js"
+  ]
+}
